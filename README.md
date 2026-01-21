@@ -85,8 +85,8 @@ Key activities included:
 
 ---
 
-![exploit Set](../screenshots/sets-ms-exploit.png)
-
+![exploit Set](/screenshots/sets-ms-exploit.png)
+![Bruteforce](/screenshots/MS-bruteforce.png)
 
 
 
