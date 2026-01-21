@@ -85,6 +85,11 @@ Key activities included:
 
 ---
 
+![](../screenshots/-sets-ms-exploit.png)
+
+
+
+
 ## 👤 Author
 
 Vinicius Farias  
