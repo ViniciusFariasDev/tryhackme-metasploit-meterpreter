@@ -87,8 +87,7 @@ Key activities included:
 
 ![exploit Set](/screenshots/sets-ms-exploit.png)
 ![Bruteforce](/screenshots/MS-bruteforce.png)
-
-
+![unlock-hash](/screenshots/unlock-hash-password.png)
 
 ## 👤 Author
 
